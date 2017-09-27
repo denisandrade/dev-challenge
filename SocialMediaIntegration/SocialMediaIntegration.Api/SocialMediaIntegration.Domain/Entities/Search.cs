@@ -15,5 +15,7 @@ namespace SocialMediaIntegration.Domain.Entities
             SocialMedia = SocialMedia;
             Date = DateTime.Now;
         }
+
+        public Search() { }
     }
 }

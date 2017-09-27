@@ -39,3 +39,16 @@ C:\Users\denis.andrade\Documents\Projetos\SocialMediaIntegration\SocialMediaInte
 C:\Users\denis.andrade\Documents\Projetos\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\obj\Debug\SocialMediaIntegration.Application.csprojResolveAssemblyReference.cache
 C:\Users\denis.andrade\Documents\Projetos\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\obj\Debug\SocialMediaIntegration.Application.dll
 C:\Users\denis.andrade\Documents\Projetos\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\obj\Debug\SocialMediaIntegration.Application.pdb
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\SocialMediaIntegration.Application.dll.config
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\SocialMediaIntegration.Application.dll
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\SocialMediaIntegration.Application.pdb
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\SocialMediaIntegration.Domain.dll
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\Tweetinvi.dll
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\SocialMediaIntegration.Domain.pdb
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\obj\Debug\SocialMediaIntegration.Application.csprojResolveAssemblyReference.cache
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\obj\Debug\SocialMediaIntegration.Application.dll
+C:\Users\denis.andrade\Documents\GitHub\dev-challenge\SocialMediaIntegration\SocialMediaIntegration.Api\SocialMediaIntegration.Application\obj\Debug\SocialMediaIntegration.Application.pdb

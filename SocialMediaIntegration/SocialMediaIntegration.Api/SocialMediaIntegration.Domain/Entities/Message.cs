@@ -19,5 +19,7 @@ namespace SocialMediaIntegration.Domain.Entities
             Date = tweet.CreatedAt;
         }
 
+        public Message(){}
+
     }
 }
