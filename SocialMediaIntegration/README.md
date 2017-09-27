@@ -16,4 +16,5 @@ Front-end
 ### Run Front-end
 
 - Install Angular CLI: `npm install -g angular-cli`
+- Install Packages: `npm install ./SocialMediaIntegration.App`
 - Run `ng serve` for a dev server. Navigate to http://localhost:4200/.
