@@ -1,0 +1,41 @@
+<br/>
+<br/>
+<div class = "col m4">
+   <div class="box-searches">
+      <div class="col m12">
+         <span class="flow-text">
+            <h5 class="blue-text text-lighten">Últimas Buscas</h5>
+         </span>
+         <div class="row"  *ngFor="let search of socialMediaSearch" >
+            <span class="flow-text">{{search.Tag}} </span>
+         </div>
+      </div>
+   </div>
+</div>
+
+<div class = "col m6">
+   <div class="row">
+      <div class="input-field col m10">
+         <input type="text" id="text" [(ngModel)]="tag">
+         <label for="text">
+            <span class="flow-text">
+               <h6 class="blue-text text-lighten">Insira uma Tag =)</h6>
+            </span>
+         </label>
+      </div>
+      <div class="input-field col m2">
+         <a href="#!" class="btn waves-effect waves-blue" (click)="getMessages()">Buscar</a>
+      </div>
+   </div>
+
+   <div class="box-messages">
+      <div class="col m12">
+         <div class="row" *ngFor="let message of socialMediaMessage">
+            <div class="card-panel blue lighten-4">
+               <h5>{{message.Author}}</h5>
+               <p class="flow-text">{{message.Text}}</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
